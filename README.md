@@ -1,3 +1,5 @@
+#FUTURE_CRAFT
+
 # Finance Tracker with Questionable Advice
 
 This is a web application designed to help you track your financial activities, including both income and expenses. It offers insights into your financial habits through visualizations and allows for efficient management of your financial data. Additionally, the app integrates with **Generative AI** to provide valuable suggestions based on your financial data and **Twilio** to send notifications to your WhatsApp number.
